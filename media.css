@@ -1,0 +1,178 @@
+
+/* Existing CSS */
+
+/* Media query for devices with a max-width of 1200px */
+@media (max-width: 1200px) {
+  #loading-page1 h3 {
+    font-size: 4vw;
+  }
+  #top-content h4 {
+    font-size: 1.8vw;
+  }
+  #navbar a {
+    font-size: 1.8vw;
+  }
+  .reveal {
+    font-size: 9vw;
+  }
+  .reveal1 h1 {
+    font-size: 9vw;
+    padding-left: 8vw;
+  }
+  #page2 #page4-content h1 {
+    font-size: 6vw;
+  }
+  #page2 #page4-content>p {
+    font-size: 1.5vw;
+  }
+  #page2 #page4-flex p {
+    font-size: 1.5vw;
+  }
+  #labpage2-left p {
+    font-size: 1.5vw;
+  }
+  #labpage2-left h5 {
+    font-size: 0.9vw;
+  }
+  #right-elem h2 {
+    font-size: 1.2vw;
+  }
+  #right-elem img {
+    width: 6vw;
+  }
+  #page4 h5 {
+    font-size: 1.5vw;
+  }
+  #page4 h1 {
+    font-size: 2.5vw;
+  }
+  #page4>#about-us h4 {
+    font-size: 0.8vw;
+  }
+  #page4>#green-div {
+    height: 2vw;
+    width: 4vw;
+  }
+  #cursor {
+    height: 2vw;
+    width: 2vw;
+  }
+}
+
+/* Media query for devices with a max-width of 768px */
+@media (max-width: 768px) {
+  #loading-page1 h3 {
+    font-size: 5vw;
+  }
+  #top-content h4 {
+    font-size: 2.5vw;
+  }
+  #navbar a {
+    font-size: 2.5vw;
+  }
+  .reveal {
+    font-size: 11vw;
+  }
+  .reveal1 h1 {
+    font-size: 11vw;
+    padding-left: 6vw;
+  }
+  #page2 #page4-content h1 {
+    font-size: 8vw;
+  }
+  #page2 #page4-content>p {
+    font-size: 2vw;
+  }
+  #page2 #page4-flex p {
+    font-size: 2vw;
+  }
+  #labpage2-left p {
+    font-size: 2vw;
+  }
+  #labpage2-left h5 {
+    font-size: 1.5vw;
+  }
+  #right-elem h2 {
+    font-size: 1.5vw;
+  }
+  #right-elem img {
+    width: 8vw;
+  }
+  #page4 h5 {
+    font-size: 2vw;
+  }
+  #page4 h1 {
+    font-size: 3vw;
+  }
+  #page4>#about-us h4 {
+    font-size: 1vw;
+  }
+  #page4>#green-div {
+    height: 3vw;
+    width: 6vw;
+  }
+  #cursor {
+    height: 3vw;
+    width: 3vw;
+  }
+}
+
+/* Media query for devices with a max-width of 480px */
+@media (max-width: 480px) {
+  #loading-page1 h3 {
+    font-size: 6vw;
+  }
+  #top-content h4 {
+    font-size: 3.5vw;
+  }
+  #navbar a {
+    font-size: 3.5vw;
+  }
+  .reveal {
+    font-size: 13vw;
+  }
+  .reveal1 h1 {
+    font-size: 13vw;
+    padding-left: 4vw;
+  }
+  #page2 #page4-content h1 {
+    font-size: 10vw;
+  }
+  #page2 #page4-content>p {
+    font-size: 3vw;
+  }
+  #page2 #page4-flex p {
+    font-size: 3vw;
+  }
+  #labpage2-left p {
+    font-size: 3vw;
+  }
+  #labpage2-left h5 {
+    font-size: 2.5vw;
+  }
+  #right-elem h2 {
+    font-size: 2vw;
+  }
+  #right-elem img {
+    width: 10vw;
+  }
+  #page4 h5 {
+    font-size: 3vw;
+  }
+  #page4 h1 {
+    font-size: 4vw;
+  }
+  #page4>#about-us h4 {
+    font-size: 1.5vw;
+  }
+  #page4>#green-div {
+    height: 4vw;
+    width: 8vw;
+  }
+  #cursor {
+    height: 4vw;
+    width: 4vw;
+  }
+}
+
+
